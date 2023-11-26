@@ -1,3 +1,5 @@
+package lab_one;
+
 public class GameEntry {
 
 

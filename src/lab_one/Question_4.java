@@ -1,3 +1,5 @@
+package lab_one;
+
 public class Question_4 {
     public boolean isEven(int i){
         int number = (byte)i ;

@@ -1,3 +1,5 @@
+package lab_one;
+
 public class Question_7 {
     public int positive_square (int n){
         int sum =0;

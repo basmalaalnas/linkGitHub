@@ -1,3 +1,5 @@
+package lab_one;
+
 public class Flower {
     private String name;
     private int num_of_petals;

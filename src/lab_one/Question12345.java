@@ -1,6 +1,8 @@
+package lab_one;
+
 import java.util.Scanner;
 
-public class Question {
+public class Question12345 {
     public static void main(String[] args) {
 
         /*----------------حل السؤال الاول---------------*/
@@ -40,6 +42,7 @@ public class Question {
     public static void printNumber(){
         for (int ARRAY : Array_print){
             System.out.println(ARRAY);}}
+
 
 
 

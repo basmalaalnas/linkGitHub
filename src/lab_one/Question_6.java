@@ -1,3 +1,5 @@
+package lab_one;
+
 public class Question_6 {
     public int positive_odd (int n){
         int sum =0;
